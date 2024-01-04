@@ -4,7 +4,7 @@
 - 🐍 in Python
 - 🌱 I’m slowly learning rust
 - 💞️ I’m looking to collaborate on well idk maybe something, probably a data science project
-- 📫 How to reach me ...
+- 📫 How to reach me: [@emilychwiggy@mastodon.art](https://mastodon.art/@emilychwiggy)
 
 <!---
 Chwiggy/Chwiggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
